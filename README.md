@@ -16,7 +16,9 @@ I use a credentials file, I am okay with this, there isn't a better way that I k
 ` ➜  ~ vim /etc/openvpn/creds `
 
 ### Startup
-reboot at this stage.
+` ➜  ~ reboot`
+
+Until I can find a better way.
 
 
 ### Auto-Start
