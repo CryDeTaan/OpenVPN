@@ -1,6 +1,6 @@
 # OpenVPN
 
-This contains information on how I setup a OpenVPN connections
+This contains information on how I setup a OpenVPN connection
 
 ### Provider 
 ProXPN: https://www.proxpn.com
