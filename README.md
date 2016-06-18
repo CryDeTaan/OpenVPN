@@ -7,7 +7,7 @@ ProXPN: https://www.proxpn.com
 
 ### Setup
 
-` ➜  ~ git clone https://github.com/CryDeTaan/OpenVPN.git  /tmp/OpenVPN/ &&  mv /tmp/OpenVPN/* /etc/openvpn`
+` ➜  ~ git clone https://github.com/CryDeTaan/OpenVPN.git  /tmp/OpenVPN/ &&  mv /tmp/OpenVPN/* /etc/openvpn && rm -r /tmp/OpennVPN`
 
 ### Configure
 
